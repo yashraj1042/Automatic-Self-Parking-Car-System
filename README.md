@@ -7,8 +7,8 @@ This project is an advanced self-parking car system designed to address the chal
 When activated, the system automatically:
 Detects obstacles and calculates distances using three strategically placed Infrared (IR) sensors
 Performs dynamic steering adjustments using a Servo Motor (MG90S) as the turning mechanism for the front wheels
-Controls vehicle movement precisely with N20 motors managed by an L293D motor driver
-Brings the vehicle to a complete stop** upon successful parking to ensure safety and prevent collisions.
+Controls vehicle movement precisely with N20 motors managed by an L298N motor driver
+Brings the vehicle to a complete stop upon successful parking to ensure safety and prevent collisions.
 
 This project serves as a practical application of robotics and automation, showcasing how motors, sensors, and microcontrollers can be coordinated to create intelligent and efficient parking solutions.
 
@@ -25,9 +25,9 @@ Interface: Push-button for system initiation
 
 ### Features
 
-* [cite_start]**Autonomous Parking**: Capable of positioning the car between two vehicles with optimal precision[cite: 45].
-* [cite_start]**Dynamic Steering Control**: Allows for adaptive adjustments during the parking process for enhanced versatility[cite: 534].
-* [cite_start]**Obstacle Detection**: Utilizes three IR sensors to ensure safe and accurate parking maneuvers[cite: 46].
-* [cite_start]**User-Friendly Operation**: A simple push-button interface initiates the parking and extraction sequences[cite: 532].
-* [cite_start]**Enhanced Safety**: The system automatically stops the car upon successful parking to prevent collisions[cite: 536].
-* [cite_start]**Robotics & Automation Showcase**: A practical demonstration of coordinating motors, sensors, and a microcontroller for vehicular autonomy[cite: 543].
+Autonomous Parking: Capable of positioning the car between two vehicles with optimal precision.
+Dynamic Steering Control: Allows for adaptive adjustments during the parking process for enhanced versatility.
+Obstacle Detection: Utilizes three IR sensors to ensure safe and accurate parking maneuvers.
+User-Friendly Operation**: A simple push-button interface initiates the parking and extraction sequences.
+Enhanced Safety: The system automatically stops the car upon successful parking to prevent collisions.
+Robotics & Automation Showcase: A practical demonstration of coordinating motors, sensors, and a microcontroller for vehicular autonomy.
